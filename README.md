@@ -3,6 +3,7 @@
 This application shows how to use the
 [websocket](https://github.com/gorilla/websocket) package to implement a simple [private]()
 web chat application.
+This project refers to [https://github.com/gorilla/websocket/tree/master/examples/chat].
 
 ## Running the example
 
